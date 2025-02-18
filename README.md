@@ -1,1 +1,1 @@
-# vibralisten-api-docs
+# 🎵 VibraListen API – Developer Documentation
